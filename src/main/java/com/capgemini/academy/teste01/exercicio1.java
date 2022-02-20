@@ -3,7 +3,7 @@ package com.capgemini.academy.teste01;
 
 
 public class exercicio1 {
-
+//Testano
 	public boolean desafio01 (String originalString, Integer n){
         String newString = "       ";
   
