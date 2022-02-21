@@ -7,3 +7,5 @@ Clonar o projeto em uma pasta, abrir alguma IDE(Eclipse/Intellij), importar em p
 Caminho do projeto: src/main/java no pacote com.capgemini.academy na classe Main.java.
 
 Caminho dos Testes: src/test/java no pacote com.capgemini.academy.
+
+Tecnologias utilizadas: Java, Maven e Junit. IDE(Eclipse)
